@@ -1,0 +1,1 @@
+alert (" My name is Ngozi Umekwe \n My height is 5.6 feet \n My country is Nigeria ");
